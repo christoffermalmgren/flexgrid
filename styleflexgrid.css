@@ -1,0 +1,45 @@
+body {
+    background-color: #9094F4;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    
+    
+ }
+
+ .flex-container {
+       display: flex;
+       background-color: #fff;
+       flex-wrap: wrap;
+    
+ }
+ .box {
+     min-width:  200px;
+     height: 100px;
+     flex-basis: 200px;
+     
+     
+     
+
+ }
+
+ .one {
+     background: red;
+     
+
+ }
+
+ .two {
+     background: rgb(0, 0, 255);
+     
+
+ }
+
+ .three {
+     background: green;
+     
+
+ }
